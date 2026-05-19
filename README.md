@@ -150,12 +150,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 <br>
 
-
-
 <br>
 
----
-
-<div align="center">
-  <p>Built with ❤️ using Flutter</p>
-</div>
